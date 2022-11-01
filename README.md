@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **IIT Bombay Projects**
 - 👯 I’m looking to collaborate on **Backend Development**
-- Skills <br>
+# Languages and Tools <br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,java,py,django,sqlite,mysql,eclipse,git,linux,vim,regex)](https://skillicons.dev)
 <!-- - 🤔 I’m looking for help with  -->
 <!-- - 💬 Ask me about ... -->
