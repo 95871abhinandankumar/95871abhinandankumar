@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,java,py,django,sqlite,mysql,eclipse,git,linux,vim,regex)](https://skillicons.dev)
 <!-- - 🤔 I’m looking for help with  -->
 <!-- - 💬 Ask me about ... -->
-# Contacts, Coding Platform Profiles And Fun Fact About Me
+#
 - 📫 How to reach me: &nbsp;
   [<img alt="gmail" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="25"/>](mailto:abhinandank626@gmail.com) &nbsp;
   [<img alt="linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="25"/>](https://www.linkedin.com/in/abhinandan-kumar-6077291a6) &nbsp;
@@ -29,6 +29,7 @@ Here are some ideas to get you started:
   [<img alt="Leetcode" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" height="25"/>](https://leetcode.com/abhinandank626/) &nbsp;
   [<img alt="GeeksforGeeks" src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png" height="25"/>](https://auth.geeksforgeeks.org/user/abhinandank626/practice) &nbsp;
 <!-- - 😄 Pronouns: ... -->
+#
 - ⚡ Fun fact: Movie, Sports like vollyball, table tennis, badminton, cricket e.t.c
 #
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=95871abhinandankumar&theme=dark)](https://git.io/streak-stats)
