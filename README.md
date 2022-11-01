@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,java,py,django,sqlite,mysql,eclipse,git,linux,vim,regex)](https://skillicons.dev)
 <!-- - 🤔 I’m looking for help with  -->
 <!-- - 💬 Ask me about ... -->
+# Contacts, Coding Platform Profiles And Fun Fact About Me
 - 📫 How to reach me: &nbsp;
   [<img alt="gmail" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="25"/>](mailto:abhinandank626@gmail.com) &nbsp;
   [<img alt="linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="25"/>](https://www.linkedin.com/in/abhinandan-kumar-6077291a6) &nbsp;
