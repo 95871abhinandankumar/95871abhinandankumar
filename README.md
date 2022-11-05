@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **IIT Bombay Projects**
 - 👯 I’m looking to collaborate on **Backend Development**
 #
-[![@95871abhinandankumar's Holopin board](https://holopin.me/95871abhinandankumar)](https://holopin.io/@95871abhinandankumar)
+[![@abhinandank626's Holopin board](https://holopin.me/abhinandank626)](https://holopin.io/@abhinandank626)
 
 # Languages and Tools <br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,java,py,django,sqlite,mysql,eclipse,git,linux,vim,regex)](https://skillicons.dev)
