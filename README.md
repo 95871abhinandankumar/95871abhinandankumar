@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![@abhinandank626's Holopin board](https://holopin.me/@abhinandank626)](https://holopin.io/@abhinandank626)
 
 # Languages and Tools <br>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,java,py,django,sqlite,mysql,eclipse,git,linux,vim,regex)](https://skillicons.dev)
 <!-- - 🤔 I’m looking for help with  -->
 <!-- - 💬 Ask me about ... -->
