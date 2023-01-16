@@ -39,4 +39,5 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=95871abhinandankumar&theme=dark)](https://git.io/streak-stats)
 ![Abhinandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=95871abhinandankumar&count_private=true&show_icons=true&theme=dark)
 <!-- ![Abhinandan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=95871abhinandankumar&theme=dark) -->
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=95871abhinandankumar&theme=dark)
+<!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=95871abhinandankumar&theme=dark) -->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=95871abhinandankumar&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
