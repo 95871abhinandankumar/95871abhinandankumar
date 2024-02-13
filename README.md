@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **IIT Bombay Projects**
-- 👯 I’m looking to collaborate on **Backend Development**
+- 🔭 I’m Associate Software Engineer at Gainsight.
 #
 [![@abhinandank626's Holopin board](https://holopin.me/@abhinandank626)](https://holopin.io/@abhinandank626)
 
