@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 # Languages and Tools <br>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,java,py,django,sqlite,mysql,eclipse,git,linux,vim,regex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,java,py,django,sqlite,mysql,eclipse,git,linux,vim,regex,angular,aws)](https://skillicons.dev)
 <!-- - 🤔 I’m looking for help with  -->
 <!-- - 💬 Ask me about ... -->
 #
