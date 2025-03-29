@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m Associate Software Engineer at Gainsight.
+- 🔭 I’m Software Engineer at Gainsight.
 #
 [![@abhinandank626's Holopin board](https://holopin.me/@abhinandank626)](https://holopin.io/@abhinandank626)
 
